@@ -8,4 +8,4 @@ To-Do List (EJS, Node.js, Express.js, MongoDB, Mongoose)
 ### https://fast-bastion-41201.herokuapp.com/
 
 # Screenshots
-![](screenshots/todoList.png)
+![](screenshots/todoList.jpg)
